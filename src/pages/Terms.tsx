@@ -38,7 +38,7 @@ export default function Terms() {
                 <h2 className="text-3xl font-bold text-slate-900 m-0">Services Description</h2>
               </div>
               <p className="text-slate-700 leading-relaxed mb-4">
-                  Ngasal Smart Consulting provides financial and technology consulting services, including but not limited to:
+                  Hiperion Consulting Smart Consulting provides financial and technology consulting services, including but not limited to:
               </p>
               <ul className="space-y-2 text-slate-700">
                 <li>Investment strategy and financial planning</li>
@@ -72,7 +72,7 @@ export default function Terms() {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-slate-900 mb-4">Intellectual Property Rights</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
-                All content on the Ngasal Smart Consulting website, including text, graphics, logos, images, software, and other materials, is the property of Ngasal Smart Consulting or its licensors and is protected by copyright, trademark, and other intellectual property laws.
+                All content on the Hiperion Consulting Smart Consulting website, including text, graphics, logos, images, software, and other materials, is the property of Hiperion Consulting Smart Consulting or its licensors and is protected by copyright, trademark, and other intellectual property laws.
               </p>
               <p className="text-slate-700 leading-relaxed">
                 You may not reproduce, distribute, modify, create derivative works, publicly display, or exploit any content without our prior written consent. Any deliverables created specifically for clients remain subject to the terms of individual engagement agreements.
@@ -126,7 +126,7 @@ export default function Terms() {
                 To the maximum extent permitted by law:
               </p>
               <ul className="space-y-2 text-slate-700">
-                <li>Ngasal Smart Consulting shall not be liable for any indirect, incidental, special, consequential, or punitive damages</li>
+                <li>Hiperion Consulting Smart Consulting shall not be liable for any indirect, incidental, special, consequential, or punitive damages</li>
                 <li>Our total liability for any claim shall not exceed the fees paid for the specific services that gave rise to the claim</li>
                 <li>We are not liable for losses resulting from factors beyond our reasonable control</li>
                 <li>This limitation applies regardless of the legal theory under which damages are claimed</li>
@@ -146,7 +146,7 @@ export default function Terms() {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-slate-900 mb-4">Indemnification</h2>
               <p className="text-slate-700 leading-relaxed">
-                You agree to indemnify, defend, and hold harmless Ngasal Smart Consulting, its officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your use of our services or violation of these terms.
+                You agree to indemnify, defend, and hold harmless Hiperion Consulting Smart Consulting, its officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your use of our services or violation of these terms.
               </p>
             </div>
 
@@ -182,7 +182,7 @@ export default function Terms() {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-slate-900 mb-4">Entire Agreement</h2>
               <p className="text-slate-700 leading-relaxed">
-                These Terms of Condition, together with our Privacy Policy and any engagement agreements, constitute the entire agreement between you and Ngasal Smart Consulting regarding the use of our services and supersede all prior agreements and understandings.
+                These Terms of Condition, together with our Privacy Policy and any engagement agreements, constitute the entire agreement between you and Hiperion Consulting Smart Consulting regarding the use of our services and supersede all prior agreements and understandings.
               </p>
             </div>
 
